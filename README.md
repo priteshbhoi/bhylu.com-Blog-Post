@@ -4,7 +4,7 @@
 
 | Category               | Algorithms                                           |
 |------------------------|------------------------------------------------------|
-| Sorting Algorithms     | [Bubble Sort](https://bhylu.com/bubble-sort-algoritham/)                                  |
+| Sorting Algorithms     | [Bubble Sort](https://bhylu.com/bubble-sort-algorithm/)                                  |
 |                        | [Selection Sort](link)                               |
 |                        | [Insertion Sort](link)                               |
 |                        | [Merge Sort](link)                                   |
