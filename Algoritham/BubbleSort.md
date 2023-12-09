@@ -1,4 +1,5 @@
-# Bubble Sort Algorithm
+# Bubble Sort Algorithm [🔗](https://bhylu.com/bubble-sort-algoritham/)
+
 
 Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
 
@@ -485,3 +486,5 @@ Hence, the number of comparision is
 Bubble sort is used in scenarios where:
 - Complexity is not a concern.
 - Short and simple code is preferred.
+
+[Learn more about Bubble Sort](https://bhylu.com/bubble-sort-algoritham/)
