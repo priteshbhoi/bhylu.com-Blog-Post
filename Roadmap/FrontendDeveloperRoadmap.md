@@ -1,4 +1,4 @@
-# Frontend Developer Roadmap 2024 [🔗](https://bhylu.com/bubble-sort-algoritham/)
+# Frontend Developer Roadmap 2024 [🔗](https://bhylu.com/frontend-developer-roadmap-2024/)
 
 The journey into front end development is similar to discovering a new world in which we design how websites and apps appear and function. It’s significant because it determines how people utilize and enjoy what they see on the internet. Read this Frontend developer roadmap guide to become front end developer in 2024.
 
